@@ -1,8 +1,8 @@
 🎵 Spotify Music Recommendation & Analytics Studio
 
 Spotify Studio adalah aplikasi web interaktif berbasis Machine Learning yang memadukan K-Means Clustering dan Vector Cosine Similarity untuk memberikan rekomendasi lagu berdasarkan atribut audio numerik, serta menyajikan dashboard eksplorasi data musik interaktif. Proyek ini dikembangkan sebagai Final Project Program GDGoC Universitas Sriwijaya 2026.
-![alt text](<Screenshot 2026-09-13 202338.png>)
-![alt text](<Screenshot 2026-09-13 202420.png>)
+<img width="1917" height="867" alt="Screenshot 2026-09-13 202338" src="https://github.com/user-attachments/assets/2d7fc5cf-eb09-4c46-a23b-dcaf37b90f83" />
+<img width="1917" height="866" alt="Screenshot 2026-09-13 202420" src="https://github.com/user-attachments/assets/ce1b5ec7-1b35-4881-869d-bd62e107db43" />
 
 🌟 Fitur Aplikasi (app.py)
 
